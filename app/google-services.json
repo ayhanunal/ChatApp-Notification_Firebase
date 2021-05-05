@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "340948735154",
+    "firebase_url": "https://chatapplication-fe9b1.firebaseio.com",
+    "project_id": "chatapplication-fe9b1",
+    "storage_bucket": "chatapplication-fe9b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340948735154:android:2f400bab608c16f8d1e5ab",
+        "android_client_info": {
+          "package_name": "com.ayhanunal.chatapplicationpushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340948735154-rglo1krffat32iik3gcmjckbllts8e6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlFiYB64kEXqEWvvib84nswxvA5jgL6Oc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340948735154-rglo1krffat32iik3gcmjckbllts8e6u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
